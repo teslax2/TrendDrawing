@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:TrendDrawing.Resources"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <system:String x:Key="openFile">Otwórz</system:String>
+    <system:String x:Key="openSerial">Port szeregowy</system:String>
+    <system:String x:Key="openSerialAsync">Port szeregowy Async</system:String>
+    <system:String x:Key="captureBitmap">Screenshot</system:String>
+    <system:String x:Key="saveExcel">Save Excel</system:String>
+    <system:String x:Key="cancel">Anuluj</system:String>
+</ResourceDictionary>
